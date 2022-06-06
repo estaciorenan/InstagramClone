@@ -1,4 +1,4 @@
-# Clone da página do Instagram do Bootcamp Impulso Javascript Evolution 🙃
+# Clone da página do Instagram no Bootcamp Impulso Javascript Evolution 🙃
 
 Realizado com HTML e CSS.
 
