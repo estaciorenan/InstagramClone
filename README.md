@@ -1,10 +1,11 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Clone da página do Instagram do Bootcamp Impulso Javascript Evolution 🙃
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Realizado com HTML e CSS.
 
 ### Os requisitos são:
-
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## 🚀 Let's code! 🚀
+Ministrado por:
+Gabriela Pinheiro
+Frontend Engineer, Cornershop by Uber
